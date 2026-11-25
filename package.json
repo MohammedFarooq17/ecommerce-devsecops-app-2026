@@ -1,0 +1,12 @@
+{
+  "name": "ecommerce-devsecops-app",
+  "version": "1.0.0",
+  "description": "E-commerce application for DevSecOps pipeline",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
